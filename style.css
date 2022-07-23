@@ -3,10 +3,11 @@ html
     background: url(https://www.rmit.edu.vn/content/dam/rmit/vn/en/assets-for-production/images/rmit-sgs-campus-facilities/2019-campus-photos/sgs-campus-night-05.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    filter:brightness(50%);
 }
 .nav
 {
     color: #2c3e50;
     margin: 0;
-    padding: 0;
+    padding-left: 20;
 }
