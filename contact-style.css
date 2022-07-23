@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+*
+{
+    font-family: 'Nunito', sans-serif;
+}
+#nav
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #2c3e50;
+    color-scheme: antiquewhite;
+    font-size: 2vw;
+    margin: 1%;
+    padding: 1%;
+    width: 95vw;
+}
+body
+{
+    background: url(https://www.rmit.edu.vn/content/dam/rmit/vn/en/assets-for-production/images/rmit-sgs-campus-facilities/2019-campus-photos/sgs-campus-night-05.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+} 
+#contactInf
+{
+    position: relative;
+    top: 5%;
+    left: 15%;
+    width: 70%;
+    margin: 2%;
+    padding: 0;
+    background: #2c3e50;
+    border: 2px dashed rgba(0,0,0,1);
+    font-size: 4vw;
+    border-radius: 10%;
+}
+.Title
+{
+    margin: 2%;
+}
+.Info-list
+{
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+}
+.info
+{
+    font-size: 3vw;
+}
+
